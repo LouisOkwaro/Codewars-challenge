@@ -26,7 +26,4 @@ START
 
   END
 
- # I/O (Test Cases): 
-
-    9119 --> 811181
-    765 --> 493625# Codewars-challenge
+ 
